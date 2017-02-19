@@ -8,6 +8,6 @@
 
 
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%elixir-lang.howtocode.com.bd&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>   
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Felixir-lang.howtocode.com.bd&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>   
 
 [![Join the chat at https://gitter.im/howtocode-com-bd/elixir-lang.howtocode.com.bd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/howtocode-com-bd/elixir-lang.howtocode.com.bd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
