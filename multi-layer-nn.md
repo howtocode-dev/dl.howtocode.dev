@@ -1,4 +1,5 @@
 ## মাল্টি লেয়ার অর্থাৎ ডিপ নিউরাল নেটওয়ার্ক  
+আগের চ্যাপ্টারে উল্লেখ করা সমস্যাটি ছিল,
 
 <img class="aligncenter size-large wp-image-1718" src="https://nuhil.files.wordpress.com/2017/05/screen-shot-2017-05-18-at-9-35-36-pm.png?w=687" alt="" width="687" height="287" />
 
