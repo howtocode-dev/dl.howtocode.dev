@@ -5,10 +5,10 @@
 			"shortName": "howtocode-com-bd"
 		},
         "github": {
-            "url": "https://github.com/howtocode-com-bd/elixir-lang.howtocode.com.bd"
+            "url": "https://github.com/howtocode-com-bd/dl.howtocode.com.bd"
         },
         "edit-link": {
-            "base": "https://github.com/howtocode-com-bd/elixir-lang.howtocode.com.bd/blob/master",
+            "base": "https://github.com/howtocode-com-bd/dl.howtocode.com.bd/blob/master",
             "label": "চ্যাপ্টারটি আপডেট করুন"
         }        
 	},
@@ -16,7 +16,7 @@
 		"sidebar": {
 			"অন্যান্য কোর্স": "http://www.howtocode.com.bd",
 			"আমাদের ব্লগ": "https://blog.howtocode.com.bd/",
-			"পিডিএফ ডাউনলোড": "https://www.gitbook.com/download/pdf/book/howtocode-com-bd/-elixir-lang"
+			"পিডিএফ ডাউনলোড": "https://www.gitbook.com/download/pdf/book/howtocode-com-bd/-dl"
 		}
 	}  
 }
