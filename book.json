@@ -1,5 +1,5 @@
 {
-	"plugins": ["disqus", "github", "edit-link"],
+	"plugins": ["disqus", "github", "edit-link", "adsense"],
 	"pluginsConfig": {
 		"disqus": {
 			"shortName": "howtocode-com-bd"
@@ -10,7 +10,14 @@
         "edit-link": {
             "base": "https://github.com/howtocode-com-bd/dl.howtocode.com.bd/blob/master",
             "label": "চ্যাপ্টারটি আপডেট করুন"
-        }        
+        },
+	"adsense": {
+            "client": "ca-pub-3350277075217187",
+            "slot": "7547699334",
+            "format": "auto",
+            "element": ".page-inner section",
+            "position": "top"
+	}		
 	},
 	"links": {
 		"sidebar": {
